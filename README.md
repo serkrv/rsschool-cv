@@ -1,2 +1,6 @@
 # rsschool-cv
-init:, feat: , fix: , refactor: , docs:
+# init: 
+# feat:
+# fix:
+# refactor:
+# docs:
